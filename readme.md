@@ -14,21 +14,21 @@ your own browser.
 
 ## Features
 
--   Automatic filtering on page load\
--   Real-time detection of newly loaded listings\
--   Lightweight and minimal performance impact\
--   Open source and easy to modify\
--   Works only on:\
-    `https://create.roblox.com/talent/*`
+-   Automatic filtering on page load
+-   Real-time detection of newly loaded listings
+-   Lightweight and minimal performance impact
+-   Open source and easy to modify
+-   Works only on:
+    `https://create.roblox.com/talent/`
 
 ## How It Works
 
 The script:
 
--   Scans job cards on the page\
--   Checks their titles for specific keywords\
--   Hides matching listings\
--   Uses a `MutationObserver` to detect dynamically loaded content\
+-   Scans job cards on the page
+-   Checks their titles for specific keywords
+-   Hides matching listings
+-   Uses a `MutationObserver` to detect dynamically loaded content
 -   Avoids reprocessing already scanned elements
 
 By default, the script filters posts containing:
