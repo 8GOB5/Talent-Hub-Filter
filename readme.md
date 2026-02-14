@@ -69,15 +69,16 @@ Filtering is case-insensitive.
 
 ## Disclaimer
 
--   This script is entirely client-side.\
--   It does not modify Roblox servers or platform data.\
--   It simply hides elements in your local browser view.\
+-   This script is entirely client-side.
+-   It does not modify Roblox servers or platform data.
+-   It simply hides elements in your local browser view.
 -   Use at your own discretion.
 
 ## Contributing
 
-Pull requests and suggestions are welcome.\
+Pull requests and suggestions are welcome.
 Feel free to fork and extend the filtering logic.
+Also, starring this repository would be appreciated.
 
 ## License
 
