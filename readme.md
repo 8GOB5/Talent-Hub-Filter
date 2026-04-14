@@ -5,9 +5,9 @@ Roblox Talent Hub so you can focus on hiring opportunities.
 
 ## Overview
 
-Talent Hub is primarily used for connecting developers with hiring
+Talent Hub is primarily used for connecting developers with job
 opportunities. This script automatically hides posts that appear to be
-asset sales (e.g. listings containing "selling" or "sale" in the title).
+asset sales (example: listings containing "selling" or "sale" in the title).
 
 The script runs entirely client-side and only affects what you see in
 your own browser.
